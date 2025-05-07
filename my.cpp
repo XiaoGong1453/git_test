@@ -4,6 +4,7 @@ int main(){
     scanf("%d",&n);
     n++;
     n--;
+    //good
     printf("%d",n);
     return 0;
 }
