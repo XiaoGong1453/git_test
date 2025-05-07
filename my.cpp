@@ -5,6 +5,7 @@ int main(){
     n++;
     n--;
     //good
+    //test
     printf("%d",n);
     return 0;
 }
